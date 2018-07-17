@@ -1,0 +1,13 @@
+*.DS_Store
+alishuju.xcodeproj/project.xcworkspace/
+alishuju.xcodeproj/xcuserdata/
+alishuju.xcworkspace/xcuserdata/
+alishuju.xcworkspace/xcshareddata/
+*xcuserstate
+*.xcuserstate
+
+#CocoaPods
+#/Pods/
+#Podfile.lock
+Pods/Pods.xcodeproj/project.xcworkspace/
+Pods/Pods.xcodeproj/xcuserdata/
